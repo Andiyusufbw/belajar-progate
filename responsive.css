@@ -1,0 +1,31 @@
+@media all and (max-width: 1000px) {
+
+    .list {
+        width: 50%;
+    }
+
+    .list-category {
+        margin: 0 70px;
+
+    }
+
+    footer p {
+        font-size: 17px;
+    }
+
+}
+
+@media all and (max-width: 670px) {
+    .list {
+        width: 100%;
+    }
+
+    .list-category {
+        margin: 0 150px;
+
+    }
+
+    footer p {
+        font-size: 18px;
+    }
+}
